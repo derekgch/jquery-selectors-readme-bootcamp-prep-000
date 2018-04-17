@@ -8,7 +8,7 @@ function paragraphSelector () {
 
 
 function lastImageSelector () {
-  var temp = $('img')
+  var temp = $('img:last')
 
   return temp;
 }
