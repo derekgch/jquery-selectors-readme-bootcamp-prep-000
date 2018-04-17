@@ -12,3 +12,16 @@ function lastImageSelector () {
 
   return temp;
 }
+
+
+function ninjaBabySelector() {
+  
+}
+
+function divSelector() {
+  
+}
+
+function firstListItem() {
+  
+}
