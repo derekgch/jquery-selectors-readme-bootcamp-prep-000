@@ -2,4 +2,5 @@
 function paragraphSelector () {
  var temp = $('p')
 
+ return temp;
 }
