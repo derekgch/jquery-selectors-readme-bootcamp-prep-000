@@ -4,3 +4,11 @@ function paragraphSelector () {
 
  return temp;
 }
+
+
+
+function lastImageSelector () {
+  var temp = $('img')
+
+  return temp;
+}
