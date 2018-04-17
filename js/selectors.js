@@ -8,20 +8,19 @@ function paragraphSelector () {
 
 
 function lastImageSelector () {
-  var temp = $('img:last')
 
-  return temp;
+  return $('img:last');
 }
 
 
 function ninjaBabySelector() {
-  
+
 }
 
 function divSelector() {
-  
+
 }
 
 function firstListItem() {
-  
+
 }
